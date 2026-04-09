@@ -2,7 +2,7 @@ Password-Check (Java)
 
 A simple Java application that checks the strength of a password.  
 This project was created as part of learning Java and basic programming logic.
-
+ 
 ---
 
 Features
