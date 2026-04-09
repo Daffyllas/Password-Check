@@ -1,13 +1,25 @@
-# Password Check (Java)
+Password-Check (Java)
 
-A simple Java application that checks password strength.
+A simple Java application that checks the strength of a password.  
+This project was created as part of learning Java and basic programming logic.
 
-## Features
-- Checks length
-- Checks for numbers / symbols
-- Basic validation rules
+---
 
-## Technologies
+Features
+
+- Checks password length
+- Validates presence of:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Special characters
+- Provides feedback on password strength (Weak / Medium / Strong)
+
+---
+
+Technologies Used
+
 - Java
-- NetBeans
+- NetBeans IDE
 
+---
